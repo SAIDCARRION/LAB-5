@@ -30,17 +30,17 @@ Comparar los datos en el simulador como en los resultados calculados.
 
 2.-MARCO TEÓRICO
 
-[![Captura-de-pantalla-20230110-111534.png](https://i.postimg.cc/FFBsVmHQ/Captura-de-pantalla-20230110-111534.png)](https://postimg.cc/K4t2m6T9)
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/7Z76LcDr/Captura-de-pantalla-20230110-111546.png" alt="Captura-de-pantalla-20230110-111546"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZqSqvcKB/Captura-de-pantalla-20230110-111552.png" alt="Captura-de-pantalla-20230110-111552"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QMJdQTH6/Captura-de-pantalla-20230110-111558.png" alt="Captura-de-pantalla-20230110-111558"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/FFBsVmHQ/Captura-de-pantalla-20230110-111534.png" alt="Captura-de-pantalla-20230110-111534"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/JhFMc5R5/Captura-de-pantalla-20230110-111539.png" alt="Captura-de-pantalla-20230110-111539"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/PxhkdXz0/Captura-de-pantalla-20230110-113212.png" alt="Captura-de-pantalla-20230110-113212"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/1tH1tkvX/Captura-de-pantalla-20230110-113219.png" alt="Captura-de-pantalla-20230110-113219"/></a><br/><br/>
+
 
 3.-EXPLICACIÓN DEL PROCEDIMIENTO
 
-[![Captura-de-pantalla-20230110-111539.png](https://i.postimg.cc/JhFMc5R5/Captura-de-pantalla-20230110-111539.png)](https://postimg.cc/Y4Q5tgGv)
-
-[![Captura-de-pantalla-20230110-111546.png](https://i.postimg.cc/7Z76LcDr/Captura-de-pantalla-20230110-111546.png)](https://postimg.cc/VJf1GKdK)
-
-[![Captura-de-pantalla-20230110-111552.png](https://i.postimg.cc/ZqSqvcKB/Captura-de-pantalla-20230110-111552.png)](https://postimg.cc/k2TCkWSq)
-
-[![Captura-de-pantalla-20230110-111552.png](https://i.postimg.cc/ZqSqvcKB/Captura-de-pantalla-20230110-111552.png)](https://postimg.cc/k2TCkWSq)
 
 4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
 
@@ -70,13 +70,10 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 5.4. MATERIAL Y EQUIPO REQUERIDO
 
-[![Captura-de-pantalla-20230110-113212.png](https://i.postimg.cc/PxhkdXz0/Captura-de-pantalla-20230110-113212.png)](https://postimg.cc/zLdQj1Qk)
-
-5.5. PROCEDIMIENTO
 
 5.5.1. Arme el circuito que se muestra en la figura 5.1.
 
-[![Captura-de-pantalla-20230110-113219.png](https://i.postimg.cc/1tH1tkvX/Captura-de-pantalla-20230110-113219.png)](https://postimg.cc/WFhHYHLc)
+
 
 
 
