@@ -78,3 +78,5 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 [![Captura-de-pantalla-20230110-113219.png](https://i.postimg.cc/1tH1tkvX/Captura-de-pantalla-20230110-113219.png)](https://postimg.cc/WFhHYHLc)
 
+
+
