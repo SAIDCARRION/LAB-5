@@ -30,13 +30,14 @@ Comparar los datos en el simulador como en los resultados calculados.
 
 2.-MARCO TEÓRICO
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/7Z76LcDr/Captura-de-pantalla-20230110-111546.png" alt="Captura-de-pantalla-20230110-111546"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZqSqvcKB/Captura-de-pantalla-20230110-111552.png" alt="Captura-de-pantalla-20230110-111552"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QMJdQTH6/Captura-de-pantalla-20230110-111558.png" alt="Captura-de-pantalla-20230110-111558"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/FFBsVmHQ/Captura-de-pantalla-20230110-111534.png" alt="Captura-de-pantalla-20230110-111534"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/JhFMc5R5/Captura-de-pantalla-20230110-111539.png" alt="Captura-de-pantalla-20230110-111539"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/PxhkdXz0/Captura-de-pantalla-20230110-113212.png" alt="Captura-de-pantalla-20230110-113212"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/1tH1tkvX/Captura-de-pantalla-20230110-113219.png" alt="Captura-de-pantalla-20230110-113219"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/rsDJRWqb/Captura-de-pantalla-20230110-113756.png" alt="Captura-de-pantalla-20230110-113756"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/65Gc9dj4/Captura-de-pantalla-20230110-113805.png" alt="Captura-de-pantalla-20230110-113805"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/y84PWktQ/Captura-de-pantalla-20230110-113811.png" alt="Captura-de-pantalla-20230110-113811"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/4x61cXTJ/Captura-de-pantalla-20230110-113817.png" alt="Captura-de-pantalla-20230110-113817"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wB9Qcn6D/Captura-de-pantalla-20230110-113822.png" alt="Captura-de-pantalla-20230110-113822"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZnXL8RRq/Captura-de-pantalla-20230110-113829.png" alt="Captura-de-pantalla-20230110-113829"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/xjZgDsRS/Captura-de-pantalla-20230110-113833.png" alt="Captura-de-pantalla-20230110-113833"/></a><br/><br/>
+
 
 
 3.-EXPLICACIÓN DEL PROCEDIMIENTO
