@@ -31,16 +31,14 @@ Comparar los datos en el simulador como en los resultados calculados.
 2.-MARCO TEÓRICO
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/rsDJRWqb/Captura-de-pantalla-20230110-113756.png" alt="Captura-de-pantalla-20230110-113756"/></a><br/><br/>
+
+
+3.-EXPLICACIÓN DEL PROCEDIMIENTO
+
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/65Gc9dj4/Captura-de-pantalla-20230110-113805.png" alt="Captura-de-pantalla-20230110-113805"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/y84PWktQ/Captura-de-pantalla-20230110-113811.png" alt="Captura-de-pantalla-20230110-113811"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/4x61cXTJ/Captura-de-pantalla-20230110-113817.png" alt="Captura-de-pantalla-20230110-113817"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wB9Qcn6D/Captura-de-pantalla-20230110-113822.png" alt="Captura-de-pantalla-20230110-113822"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZnXL8RRq/Captura-de-pantalla-20230110-113829.png" alt="Captura-de-pantalla-20230110-113829"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/xjZgDsRS/Captura-de-pantalla-20230110-113833.png" alt="Captura-de-pantalla-20230110-113833"/></a><br/><br/>
-
-
-
-3.-EXPLICACIÓN DEL PROCEDIMIENTO
 
 
 4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR
@@ -71,8 +69,12 @@ La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la term
 
 5.4. MATERIAL Y EQUIPO REQUERIDO
 
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZnXL8RRq/Captura-de-pantalla-20230110-113829.png" alt="Captura-de-pantalla-20230110-113829"/></a><br/><br/>
 
 5.5.1. Arme el circuito que se muestra en la figura 5.1.
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/xjZgDsRS/Captura-de-pantalla-20230110-113833.png" alt="Captura-de-pantalla-20230110-113833"/></a><br/><br/>
+
 
 
 
